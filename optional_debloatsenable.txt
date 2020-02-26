@@ -1,0 +1,14 @@
+Android System WebView :      pm disable-user --user 0 com.google.android.webview
+Black Overlay (OP launcher) : pm disable-user --user 0 net.oneplus.launcher.black.overlay
+Calculator :                  pm disable-user --user 0 com.oneplus.calculator
+Camera :                      pm disable-user --user 0 com.oneplus.camera
+Chrome :                      pm disable-user --user 0 com.android.chrome
+Digital Wellbeing :           pm disable-user --user 0 com.google.android.apps.wellbeing
+Gboard :                      pm disable-user --user 0 com.google.android.inputmethod.latin
+Google Play Services for AR : pm disable-user --user 0 com.google.ar.core	
+Oneplus Account :             pm disable-user --user 0 com.oneplus.account
+Oneplus Clock :               pm disable-user --user 0 com.oneplus.deskclock
+Oneplus Gallery :             pm disable-user --user 0 com.oneplus.gallery
+OnePlus Launcher :            pm disable-user --user 0 net.oneplus.launcher
+NFC Service :                 pm disable-user --user 0 com.android.nfc
+Zen Mode :                    pm disable-user --user 0 com.oneplus.brickmode
