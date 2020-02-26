@@ -68,13 +68,7 @@ pm enable <package_to_enable>
 1. Added a few more optional scripts
 
 **Optional Scripts**
-```shell
-Camera:           pm uninstall --user 0 com.oneplus.camera
-Calculator:       pm uninstall --user 0 com.oneplus.calculator
-Chrome:           pm uninstall --user 0 com.android.chrome
-Oneplus Clock:    pm uninstall --user 0 com.oneplus.deskclock
-Oneplus Gallery:  pm uninstall --user 0 com.oneplus.gallery
-```
+###### Added [optional scripts](https://github.com/DevilDipan/adbdebloater_opseries/blob/master/optional_debloats.txt)
 
 **Note**: - If you use it on any other device or make any other threads copying the code from this thread mention me and ask me before doing it. Also if you want any other devices to be on it contact me.
 
