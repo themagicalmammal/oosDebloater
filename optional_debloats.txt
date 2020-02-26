@@ -1,8 +1,14 @@
-Camera:             pm uninstall --user 0 com.oneplus.camera
-Calculator:         pm uninstall --user 0 com.oneplus.calculator
-Chrome:             pm uninstall --user 0 com.android.chrome
-Oneplus Clock:      pm uninstall --user 0 com.oneplus.deskclock
-Oneplus Gallery:    pm uninstall --user 0 com.oneplus.gallery
-Digital Wellbeing:  pm uninstall --user 0 com.google.android.apps.wellbeing
-Gboard:             pm uninstall --user 0 com.google.android.inputmethod.latin
-Oneplus Account:    pm uninstall --user 0 com.oneplus.account
+Android System WebView :      pm uninstall --user 0 com.google.android.webview
+Black Overlay (OP launcher) : pm uninstall --user 0 net.oneplus.launcher.black.overlay
+Calculator :                  pm uninstall --user 0 com.oneplus.calculator
+Camera :                      pm uninstall --user 0 com.oneplus.camera
+Chrome :                      pm uninstall --user 0 com.android.chrome
+Digital Wellbeing :           pm uninstall --user 0 com.google.android.apps.wellbeing
+Gboard :                      pm uninstall --user 0 com.google.android.inputmethod.latin
+Google Play Services for AR : pm uninstall --user 0 com.google.ar.core	
+Oneplus Account :             pm uninstall --user 0 com.oneplus.account
+Oneplus Clock :               pm uninstall --user 0 com.oneplus.deskclock
+Oneplus Gallery :             pm uninstall --user 0 com.oneplus.gallery
+OnePlus Launcher :            pm uninstall --user 0 net.oneplus.launcher
+NFC Service :                 pm uninstall --user 0 com.android.nfc
+Zen Mode :                    pm uninstall --user 0 com.oneplus.brickmode
