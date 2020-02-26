@@ -1,18 +1,22 @@
 <img src="https://github.com/DevilDipan/adbdebloater_opseries/blob/master/logo.jpg" width="500" /><br>
-# Oxygen OS Debloater !
+# Oxygen OS Debloater
 This is a debloater for oxygen os. Though it doesn't come with many bloats there are few bloats that could be removed to increase performance and battery life.
 
 ###### Though the performance was almost the same to me battery life increased by, 30 - 80%. As before this, I was getting approximately 4 hours 30 min s.o.t and Now I am getting about 7 hours 30 min s.o.t.
 
-# XDA
+## XDA
 ###### The xda page is [here](https://forum.xda-developers.com/oneplus-7/how-to/debloat-oxygen-os-debloater-t4009133)
+
+## License
+### This is under MIT License.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/DevilDipan/Wiki-Bot/blob/master/LICENSE)
 
 ## Requirments
 1. Windows/MAC/Linux PC
 2. ADB [Working!]
 3. OP7/OP7 Pro
 
-## Instructions:-
+## Instructions
 1. Connect the phone using ADB.
 2. Open command prompt or PowerShell or shell or the terminal with admin permissions
 3. Give ADB permissions to pc. Using -
@@ -40,7 +44,7 @@ ADB shell
 ### What if I want any app back?
 #### **Answer**:- Easy just install it from Play store or Install its Apk file.
 
-## Testing -
+## Testing
 1. I tested it on my OP7 on android pie beta and android 10 beta as well.
 2. My friend, Nicole tested it her OP7 Pro on android 10 stable.
 3. On OP7 android 10 stable by haris_94
@@ -48,8 +52,7 @@ ADB shell
 I am using this debloater for months now and it didn't give me any issues.
 Also if you want to be updated please post it or write it to me.
 
-## Versions -
-
+## Versions
 **v1** <br>
 Basic User and System Bloatware Removal <br>
 Deep Sleep Script <br>
@@ -83,9 +86,9 @@ Removed deep sleep scripts from the script <br>
 **v8** <br>
 Added with optional debloat enable <br>
 
-## For Copying or Using on other devices
-If you use it on any other device or make any other threads copying the code from this thread mention me and ask me before doing it. Also if you want any other devices to be on it contact me.
+## For modifying and posting code
+Fork this repo before you modify it
 
-## Thanks for Suggestions :-<br>
+## Thanks for Suggestions<br>
 [haris_94](https://forum.xda-developers.com/member.php?u=9931329)<br>
 [Kinto](https://forum.xda-developers.com/member.php?u=1755710)
