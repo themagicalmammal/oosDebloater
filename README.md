@@ -1,5 +1,5 @@
 <img src="https://github.com/DevilDipan/adbdebloater_opseries/blob/master/logo.jpg" width="500" /><br>
-# Oxygen OS Debloater ![Test Status](https://github.com/gobuffalo/tags/workflows/Tests/badge.svg) ![Build Passing](https://api.travis-ci.org/php/php-src.svg?branch=master)
+# Oxygen OS Debloater !
 This is a debloater for oxygen os. Though it doesn't come with many bloats there are few bloats that could be removed to increase performance and battery life.
 
 ###### Though the performance was almost the same to me battery life increased by, 30 - 80%. As before this, I was getting approximately 4 hours 30 min s.o.t and Now I am getting about 7 hours 30 min s.o.t.
