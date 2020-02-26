@@ -1,0 +1,5 @@
+Camera: pm uninstall --user 0 com.oneplus.camera
+Calculator: pm uninstall --user 0 com.oneplus.calculator
+Chrome: pm uninstall --user 0 com.android.chrome
+Oneplus Clock:   pm uninstall --user 0 com.oneplus.deskclock
+Oneplus Gallery: pm uninstall --user 0 com.oneplus.gallery
