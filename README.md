@@ -64,6 +64,9 @@ pm enable <package_to_enable>
 **v4 both methods**
 1. Removed the failures commands as posted by haris_94
 
+**v5 changes with optional scripts**
+Added a few more optional scripts
+
 **OPTIONAL SCRIPTS**
 ```shell
 Camera:           pm uninstall --user 0 com.oneplus.camera
@@ -75,6 +78,6 @@ Oneplus Gallery:  pm uninstall --user 0 com.oneplus.gallery
 
 **Note**: - If you use it on any other device or make any other threads copying the code from this thread mention me and ask me before doing it. Also if you want any other devices to be on it contact me.
 
-Thanks for Suggestions :-<br>
+## Thanks for Suggestions :-<br>
 [haris_94](https://forum.xda-developers.com/member.php?u=9931329)<br>
 [Kinto](https://forum.xda-developers.com/member.php?u=1755710)
