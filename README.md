@@ -26,10 +26,10 @@ adb shell
 6. If you don't want some apps to be removed remove respective lines.
 7. Done Enjoy!!!
 
-What if I want any app back?
-Ans - Easy just install it from Play store or Install its Apk file.
+### What if I want any app back?
+#### Answer - Easy just install it from Play store or Install its Apk file.
 
-Testing -
+## Testing -
 1. I tested it on my OP7 on android pie beta and android 10 beta as well.
 2. My friend, Nicole tested it her OP7 Pro on android 10 stable.
 3. On OP7 android 10 stable by haris_94
@@ -37,6 +37,8 @@ Testing -
 I am using this debloater for months now and it didn't give me any issues.
 
 Also if you want to be updated please post it or write it to me.
+
+## Versions -
 
 **v1**
 1. Basic User and System Bloatware Removal
@@ -64,15 +66,15 @@ pm enable <package_to_enable>
 
 **OPTIONAL SCRIPTS**
 ```shell
-Camera: pm uninstall --user 0 com.oneplus.camera
-Calculator: pm uninstall --user 0 com.oneplus.calculator
-Chrome: pm uninstall --user 0 com.android.chrome
-Oneplus Clock:   pm uninstall --user 0 com.oneplus.deskclock
-Oneplus Gallery: pm uninstall --user 0 com.oneplus.gallery
+Camera:           pm uninstall --user 0 com.oneplus.camera
+Calculator:       pm uninstall --user 0 com.oneplus.calculator
+Chrome:           pm uninstall --user 0 com.android.chrome
+Oneplus Clock:    pm uninstall --user 0 com.oneplus.deskclock
+Oneplus Gallery:  pm uninstall --user 0 com.oneplus.gallery
 ```
 
-Note: - If you use it on any other device or make any other threads copying the code from this thread mention me and ask me before doing it. Also if you want any other devices to be on it contact me.
+**Note**: - If you use it on any other device or make any other threads copying the code from this thread mention me and ask me before doing it. Also if you want any other devices to be on it contact me.
 
-Thanks for Suggestions :-
-[haris_94](https://forum.xda-developers.com/member.php?u=9931329)
+Thanks for Suggestions :-<br>
+[haris_94](https://forum.xda-developers.com/member.php?u=9931329)<br>
 [Kinto](https://forum.xda-developers.com/member.php?u=1755710)
