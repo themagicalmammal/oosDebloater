@@ -1,10 +1,10 @@
 # Oxygen OS Debloater
 This is a debloater for oxygen os. Though it doesn't come with many bloats there are few bloats that could be removed to increase performance and battery life.
 
-##### Though the performance was almost the same to me battery life increased by, 30 - 80%. As before this, I was getting approximately 4 hours 30 min s.o.t and Now I am getting about 7 hours 30 min s.o.t.
+###### Though the performance was almost the same to me battery life increased by, 30 - 80%. As before this, I was getting approximately 4 hours 30 min s.o.t and Now I am getting about 7 hours 30 min s.o.t.
 
 # XDA
-The xda page is [here](https://forum.xda-developers.com/oneplus-7/how-to/debloat-oxygen-os-debloater-t4009133)
+###### The xda page is [here](https://forum.xda-developers.com/oneplus-7/how-to/debloat-oxygen-os-debloater-t4009133)
 
 ## Requirments
 1. Windows/MAC/Linux PC
@@ -65,9 +65,9 @@ pm enable <package_to_enable>
 1. Removed the failures commands as posted by haris_94
 
 **v5 changes with optional scripts**
-Added a few more optional scripts
+1. Added a few more optional scripts
 
-**OPTIONAL SCRIPTS**
+**Optional Scripts**
 ```shell
 Camera:           pm uninstall --user 0 com.oneplus.camera
 Calculator:       pm uninstall --user 0 com.oneplus.calculator
