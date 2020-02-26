@@ -1,3 +1,4 @@
+<img src="https://i-cdn.phonearena.com/images/article/119131-two_lead/OnePlus-7-and-OnePlus-7-Pro-receiving-Android-10-based-OxygenOS-10.0-update.jpg" width="350" /><br>
 # Oxygen OS Debloater
 This is a debloater for oxygen os. Though it doesn't come with many bloats there are few bloats that could be removed to increase performance and battery life.
 
@@ -40,35 +41,40 @@ Also if you want to be updated please post it or write it to me.
 
 ## Versions -
 
-**v1**
-1. Basic User and System Bloatware Removal
-2. Deep Sleep Script
+**v1** <br>
+Basic User and System Bloatware Removal <br>
+Deep Sleep Script <br>
 
-**v2**
-1. Chrome Removed from the script
-2. Oneplus Gallery Removed from the script
-3. Oneplus Account Removed from the script
+**v2** <br>
+Chrome Removed from the script <br>
+Oneplus Gallery Removed from the script <br>
+Oneplus Account Removed from the script <br>
 
-**v3**
-1. Amazon bloatware
-2. Oneplus Icons Packs
-3. One plus community apps
+**v3** <br>
+Amazon bloatware <br>
+Oneplus Icons Packs <br>
+One plus community apps <br>
 
-**v3 with enabling method** *Use this if you know how to work enabling it back*
-*I prefer the above one*
-1. Same things as above one but has the option to unable
-2. To enable use -
-Code:
+**Added enabling method** <br> 
+*Use this if you know how to work enabling it back* <br>
+Same things as above one but has the option to unable <br>
+```shell
 pm enable <package_to_enable>
+```
+**v4 both methods** <br>
+Removed the failures commands as posted by [haris_94](https://forum.xda-developers.com/member.php?u=9931329) <br>
 
-**v4 both methods**
-1. Removed the failures commands as posted by haris_94
+**v5 changes with optional scripts** <br>
+Added a few more optional scripts <br>
 
-**v5 changes with optional scripts**
-1. Added a few more optional scripts
+**v6** <br>
+Added a few more optional scripts <br>
 
-**Optional Scripts**
-###### Added [optional scripts](https://github.com/DevilDipan/adbdebloater_opseries/blob/master/optional_debloats.txt)
+**v7** <br>
+Removed deep sleep scripts from the script <br>
+
+**v8** <br>
+Added with optional debloat enable <br>
 
 **Note**: - If you use it on any other device or make any other threads copying the code from this thread mention me and ask me before doing it. Also if you want any other devices to be on it contact me.
 
