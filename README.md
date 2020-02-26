@@ -1,5 +1,5 @@
-<img src="https://i-cdn.phonearena.com/images/article/119131-two_lead/OnePlus-7-and-OnePlus-7-Pro-receiving-Android-10-based-OxygenOS-10.0-update.jpg" width="350" /><br>
-# Oxygen OS Debloater
+<img src="https://github.com/DevilDipan/adbdebloater_opseries/blob/master/logo.jpg" width="500" /><br>
+# Oxygen OS Debloater ![Test Status](https://github.com/gobuffalo/tags/workflows/Tests/badge.svg) ![Build Passing](https://api.travis-ci.org/php/php-src.svg?branch=master)
 This is a debloater for oxygen os. Though it doesn't come with many bloats there are few bloats that could be removed to increase performance and battery life.
 
 ###### Though the performance was almost the same to me battery life increased by, 30 - 80%. As before this, I was getting approximately 4 hours 30 min s.o.t and Now I am getting about 7 hours 30 min s.o.t.
@@ -15,20 +15,30 @@ This is a debloater for oxygen os. Though it doesn't come with many bloats there
 ## Instructions:-
 1. Connect the phone using ADB.
 2. Open command prompt or PowerShell or shell or the terminal with admin permissions
-3. Give adb permissions to pc. Using -
+3. Give ADB permissions to pc. Using -
 ```shell
-adb devices
+ADB devices
 ```
 4. Type
 ```shell
-adb shell
+ADB shell
 ```
-5. Then use anyone of [this](https://github.com/DevilDipan/adbdebloater_op7/releases)
+5. Then use any one of [this](https://github.com/DevilDipan/adbdebloater_op7/releases)
 6. If you don't want some apps to be removed remove respective lines.
 7. Done Enjoy!!!
 
+## Scripts
+1. Debloaters
+* With [Uninstall Method](https://github.com/DevilDipan/adbdebloater_opseries/blob/master/debloater.txt) **(Safe for Op7 Series)**
+* With [Disable Method](https://github.com/DevilDipan/adbdebloater_opseries/blob/master/debloater_enable.txt) **(Recommended)**
+2. Optional Scripts
+* With [Uninstall Method](https://github.com/DevilDipan/adbdebloater_opseries/blob/master/optional_debloats.txt) **(Highly Risky)**
+* With [Disable Method](https://github.com/DevilDipan/adbdebloater_opseries/blob/master/optional_debloatsenable.txt) **(Recommended)**
+3. Deep Sleep Script
+* [Normal](https://github.com/DevilDipan/adbdebloater_opseries/blob/master/deepsleepscript.txt) (Only for Op7/Pro don't try on others or it will break VOLTE) **(Risky)**
+ 
 ### What if I want any app back?
-#### Answer - Easy just install it from Play store or Install its Apk file.
+#### **Answer**:- Easy just install it from Play store or Install its Apk file.
 
 ## Testing -
 1. I tested it on my OP7 on android pie beta and android 10 beta as well.
@@ -36,7 +46,6 @@ adb shell
 3. On OP7 android 10 stable by haris_94
 
 I am using this debloater for months now and it didn't give me any issues.
-
 Also if you want to be updated please post it or write it to me.
 
 ## Versions -
@@ -55,16 +64,14 @@ Amazon bloatware <br>
 Oneplus Icons Packs <br>
 One plus community apps <br>
 
-**Added enabling method** <br> 
-*Use this if you know how to work enabling it back* <br>
-Same things as above one but has the option to unable <br>
-```shell
+###### Added enabling method
+```
 pm enable <package_to_enable>
 ```
-**v4 both methods** <br>
+**v4** <br>
 Removed the failures commands as posted by [haris_94](https://forum.xda-developers.com/member.php?u=9931329) <br>
 
-**v5 changes with optional scripts** <br>
+**v5** <br>
 Added a few more optional scripts <br>
 
 **v6** <br>
@@ -76,7 +83,8 @@ Removed deep sleep scripts from the script <br>
 **v8** <br>
 Added with optional debloat enable <br>
 
-**Note**: - If you use it on any other device or make any other threads copying the code from this thread mention me and ask me before doing it. Also if you want any other devices to be on it contact me.
+## For Copying or Using on other devices
+If you use it on any other device or make any other threads copying the code from this thread mention me and ask me before doing it. Also if you want any other devices to be on it contact me.
 
 ## Thanks for Suggestions :-<br>
 [haris_94](https://forum.xda-developers.com/member.php?u=9931329)<br>
