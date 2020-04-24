@@ -5,10 +5,14 @@ Camera :                      pm uninstall --user 0 com.oneplus.camera
 Chrome :                      pm uninstall --user 0 com.android.chrome
 Digital Wellbeing :           pm uninstall --user 0 com.google.android.apps.wellbeing
 Gboard :                      pm uninstall --user 0 com.google.android.inputmethod.latin
+Google Play Services :        pm uninstall --user 0 com.google.android.gms
+Google Services Framework :   pm uninstall --user 0 com.google.android.gsf
 Google Play Services for AR : pm uninstall --user 0 com.google.ar.core	
 Oneplus Account :             pm uninstall --user 0 com.oneplus.account
 Oneplus Clock :               pm uninstall --user 0 com.oneplus.deskclock
 Oneplus Gallery :             pm uninstall --user 0 com.oneplus.gallery
 OnePlus Launcher :            pm uninstall --user 0 net.oneplus.launcher
+Play store  :                 pm uninstall --user 0 com.android.vending
 NFC Service :                 pm uninstall --user 0 com.android.nfc
+White Overlay (OP launcher) : pm uninstall --user 0 net.oneplus.launcher.white.overlay
 Zen Mode :                    pm uninstall --user 0 com.oneplus.brickmode
