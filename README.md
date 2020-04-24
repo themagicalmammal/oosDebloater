@@ -1,5 +1,5 @@
 <img src="https://github.com/DevilDipan/adbdebloater_opseries/blob/master/logo.jpg" width="500" /><br>
-# Oxygen OS Debloater
+# OOS/H2OS Debloater
 This is a debloater for oxygen os. Though it doesn't come with many bloats there are few bloats that could be removed to increase performance and battery life.
 
 ###### Though the performance improvement is not visible the same to me battery life increased by 30+%.
