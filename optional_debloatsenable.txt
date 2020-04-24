@@ -4,6 +4,7 @@ Calculator :                  pm disable-user --user 0 com.oneplus.calculator
 Camera :                      pm disable-user --user 0 com.oneplus.camera
 Chrome :                      pm disable-user --user 0 com.android.chrome
 Digital Wellbeing :           pm disable-user --user 0 com.google.android.apps.wellbeing
+Game Space :                  pm disable-user --user 0 com.oneplus.gamespace
 Gboard :                      pm disable-user --user 0 com.google.android.inputmethod.latin
 Google Play Services :        pm disable-user --user 0 com.google.android.gms
 Google Services Framework :   pm disable-user --user 0 com.google.android.gsf
