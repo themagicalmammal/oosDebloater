@@ -5,11 +5,15 @@ pm uninstall --user 0 com.amazon.kindle
 pm uninstall --user 0 com.amazon.mShop.android.shopping
 pm uninstall --user 0 com.android.bookmarkprovider
 pm uninstall --user 0 com.android.dreams.basic
+pm uninstall --user 0 com.android.hotwordenrollment.okgoogle
+pm uninstall --user 0 com.android.hotwordenrollment.xgoogle
 pm uninstall --user 0 com.android.providers.partnerbookmarks
 pm uninstall --user 0 com.android.stk
 pm uninstall --user 0 com.android.traceur
 pm uninstall --user 0 com.android.wallpaper.livepicker
 pm uninstall --user 0 com.android.wallpaperbackup
+pm uninstall --user 0 com.dsl.ant.server
+pm uninstall --user 0 com.example.rftuner
 pm uninstall --user 0 com.example.wifirftest
 pm uninstall --user 0 com.fingerprints.fingerprintsensortest
 pm uninstall --user 0 com.google.android.apps.docs
@@ -19,6 +23,7 @@ pm uninstall --user 0 com.google.android.apps.restore
 pm uninstall --user 0 com.google.android.apps.tachyon
 pm uninstall --user 0 com.google.android.apps.turbo
 pm uninstall --user 0 com.google.android.apps.walletnfcrel
+pm uninstall --user 0 com.google.android.as
 pm uninstall --user 0 com.google.android.calendar
 pm uninstall --user 0 com.google.android.feedback
 pm uninstall --user 0 com.google.android.gm
@@ -44,7 +49,7 @@ pm uninstall --user 0 com.oneplus.card
 pm uninstall --user 0 com.oneplus.factorymode
 pm uninstall --user 0 com.oneplus.factorymode.specialtest
 pm uninstall --user 0 com.oneplus.filemanager
-pm uninstall --user 0 net.oneplus.forums
+pm uninstall --user 0 com.oneplus.gamespace
 pm uninstall --user 0 com.oneplus.iconpack.circle
 pm uninstall --user 0 com.oneplus.iconpack.oneplus
 pm uninstall --user 0 com.oneplus.iconpack.square
@@ -53,11 +58,14 @@ pm uninstall --user 0 com.oneplus.opbugreportlite
 pm uninstall --user 0 com.oneplus.soundrecorder
 pm uninstall --user 0 com.qti.snapdragon.qdcm_ff
 pm uninstall --user 0 com.qualcomm.uimremoteclient
+pm uninstall --user 0 com.tencent.soter.soterserver
 pm uninstall --user 0 com.wapi.wapicertmanage
 pm uninstall --user 0 in.amazon.mShop.android.shopping
 pm uninstall --user 0 net.oneplus.commonlogtool
+pm uninstall --user 0 net.oneplus.forums
 pm uninstall --user 0 net.oneplus.odm
 pm uninstall --user 0 net.oneplus.odm.provider
 pm uninstall --user 0 net.oneplus.provider.appcategoryprovider
 pm uninstall --user 0 net.oneplus.push
 pm uninstall --user 0 net.oneplus.weather
+pm uninstall --user 0 net.oneplus.widget
