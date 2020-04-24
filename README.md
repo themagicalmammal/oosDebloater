@@ -53,7 +53,7 @@ ADB shell
 1. [Me](https://forum.xda-developers.com/member.php?u=9670192) on OP7 on android pie/10 beta & EU.
 2. Nicole on OP7 Pro on android 10 stable.
 3. [haris_94](https://forum.xda-developers.com/member.php?u=9931329) on OP7 on android stable.
-4. [Crizo](https://forum.xda-developers.com/member.php?u=5758653) on OP7T on android stable.
+4. [Croize](https://forum.xda-developers.com/member.php?u=5758653) on OP7T on android stable.
 I am using this debloater for months now and it didn't give me any issues. <br>
 
 Also if you want to be updated please post it or write it to me.
