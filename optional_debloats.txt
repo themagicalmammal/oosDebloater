@@ -4,6 +4,7 @@ Calculator :                  pm uninstall --user 0 com.oneplus.calculator
 Camera :                      pm uninstall --user 0 com.oneplus.camera
 Chrome :                      pm uninstall --user 0 com.android.chrome
 Digital Wellbeing :           pm uninstall --user 0 com.google.android.apps.wellbeing
+Game Space :                  pm uninstall --user 0 com.oneplus.gamespace
 Gboard :                      pm uninstall --user 0 com.google.android.inputmethod.latin
 Google Play Services :        pm uninstall --user 0 com.google.android.gms
 Google Services Framework :   pm uninstall --user 0 com.google.android.gsf
