@@ -5,11 +5,15 @@ pm disable-user --user 0 com.amazon.kindle
 pm disable-user --user 0 com.amazon.mShop.android.shopping
 pm disable-user --user 0 com.android.bookmarkprovider
 pm disable-user --user 0 com.android.dreams.basic
+pm disable-user --user 0 com.android.hotwordenrollment.okgoogle
+pm disable-user --user 0 com.android.hotwordenrollment.xgoogle
 pm disable-user --user 0 com.android.providers.partnerbookmarks
 pm disable-user --user 0 com.android.stk
 pm disable-user --user 0 com.android.traceur
 pm disable-user --user 0 com.android.wallpaper.livepicker
 pm disable-user --user 0 com.android.wallpaperbackup
+pm disable-user --user 0 com.dsl.ant.server
+pm disable-user --user 0 com.example.rftuner
 pm disable-user --user 0 com.example.wifirftest
 pm disable-user --user 0 com.fingerprints.fingerprintsensortest
 pm disable-user --user 0 com.google.android.apps.docs
@@ -19,6 +23,7 @@ pm disable-user --user 0 com.google.android.apps.restore
 pm disable-user --user 0 com.google.android.apps.tachyon
 pm disable-user --user 0 com.google.android.apps.turbo
 pm disable-user --user 0 com.google.android.apps.walletnfcrel
+pm disable-user --user 0 com.google.android.as
 pm disable-user --user 0 com.google.android.calendar
 pm disable-user --user 0 com.google.android.feedback
 pm disable-user --user 0 com.google.android.gm
@@ -44,7 +49,7 @@ pm disable-user --user 0 com.oneplus.card
 pm disable-user --user 0 com.oneplus.factorymode
 pm disable-user --user 0 com.oneplus.factorymode.specialtest
 pm disable-user --user 0 com.oneplus.filemanager
-pm disable-user --user 0 net.oneplus.forums
+pm disable-user --user 0 com.oneplus.gamespace
 pm disable-user --user 0 com.oneplus.iconpack.circle
 pm disable-user --user 0 com.oneplus.iconpack.oneplus
 pm disable-user --user 0 com.oneplus.iconpack.square
@@ -53,11 +58,14 @@ pm disable-user --user 0 com.oneplus.opbugreportlite
 pm disable-user --user 0 com.oneplus.soundrecorder
 pm disable-user --user 0 com.qti.snapdragon.qdcm_ff
 pm disable-user --user 0 com.qualcomm.uimremoteclient
+pm disable-user --user 0 com.tencent.soter.soterserver
 pm disable-user --user 0 com.wapi.wapicertmanage
 pm disable-user --user 0 in.amazon.mShop.android.shopping
 pm disable-user --user 0 net.oneplus.commonlogtool
+pm disable-user --user 0 net.oneplus.forums
 pm disable-user --user 0 net.oneplus.odm
 pm disable-user --user 0 net.oneplus.odm.provider
 pm disable-user --user 0 net.oneplus.provider.appcategoryprovider
 pm disable-user --user 0 net.oneplus.push
 pm disable-user --user 0 net.oneplus.weather
+pm disable-user --user 0 net.oneplus.widget
