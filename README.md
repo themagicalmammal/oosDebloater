@@ -100,7 +100,7 @@ Fork this repo before you modify it
 
 ## Thanks for Suggestions<br>
 [haris_94](https://forum.xda-developers.com/member.php?u=9931329)<br>
-[Kinto](https://forum.xda-developers.com/member.php?u=1755710)
-[dude_abided](https://forum.xda-developers.com/member.php?u=10663973)
-[Illuminatus_](https://forum.xda-developers.com/member.php?u=4391705)
+[Kinto](https://forum.xda-developers.com/member.php?u=1755710)<br>
+[dude_abided](https://forum.xda-developers.com/member.php?u=10663973)<br>
+[Illuminatus_](https://forum.xda-developers.com/member.php?u=4391705)<br>
 [RainGater](https://forum.xda-developers.com/member.php?u=5379867)
