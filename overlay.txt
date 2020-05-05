@@ -1,3 +1,10 @@
+pm uninstall --user 0 com.android.cellbroadcastreceiver.basiccolorblack.overlay
+pm uninstall --user 0 com.android.cellbroadcastreceiver.basiccolorwhite.overlay
+pm uninstall --user 0 com.android.cellbroadcastreceiver.overlay.common
+pm uninstall --user 0 com.android.emergency.basiccolorblack.overlay
+pm uninstall --user 0 com.android.emergency.basiccolorwhite.overlay
+pm uninstall --user 0 com.android.settings.intelligence.basiccolorblack.overlay
+pm uninstall --user 0 com.android.settings.intelligence.basiccolorwhite.overlay
 pm uninstall --user 0 com.oneplus.account.basiccolorblack.overlay
 pm uninstall --user 0 com.oneplus.account.basiccolorwhite.overlay
 pm uninstall --user 0 com.oneplus.calculator.basiccolorblack.overlay
@@ -18,3 +25,5 @@ pm uninstall --user 0 com.oneplus.security.black.overlay
 pm uninstall --user 0 com.oneplus.security.white.overlay
 pm uninstall --user 0 com.oneplus.soundrecorder.black.overlay
 pm uninstall --user 0 com.oneplus.soundrecorder.white.overlay
+pm uninstall --user 0 net.oneplus.weather.basiccolorblack.overlay
+pm uninstall --user 0 net.oneplus.weather.basiccolorwhite.overlay
