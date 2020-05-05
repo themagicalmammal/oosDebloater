@@ -41,7 +41,10 @@ ADB shell
 3. Deep Sleep Script
 * [Normal](https://github.com/DevilDipan/adbdebloater_opseries/blob/master/deepsleepscript.txt) (Will break VOLTE on Oneplus 6)
 4. Original Sleep Script
-* [Normal](https://github.com/DevilDipan/adbdebloater_opseries/blob/master/originalsleepscript.txt)
+* [Normal](https://github.com/DevilDipan/adbdebloater_opseries/blob/master/originalsleepscript.txt
+5. Overlay Script (For paranoid people)
+* With [Uninstall Method](https://github.com/DevilDipan/adbdebloater_opseries/blob/master/overlay.txt) **(Risky)**
+* With [Disable Method](https://github.com/DevilDipan/adbdebloater_opseries/blob/master/overlay_enable.txt) **(Recommended)**
  
 ### What if I want any app back?
 #### **Answer**:- Easy just install it from Play store or Install its Apk file.
