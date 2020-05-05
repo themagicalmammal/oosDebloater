@@ -4,9 +4,12 @@ pm disable-user --user 0 com.amazon.avod.thirdpartyclient
 pm disable-user --user 0 com.amazon.kindle
 pm disable-user --user 0 com.amazon.mShop.android.shopping
 pm disable-user --user 0 com.android.bookmarkprovider
+pm disable-user --user 0 com.android.cellbroadcastreceiver
 pm disable-user --user 0 com.android.dreams.basic
+pm disable-user --user 0 com.android.externalstorage
 pm disable-user --user 0 com.android.hotwordenrollment.okgoogle
 pm disable-user --user 0 com.android.hotwordenrollment.xgoogle
+pm disable-user --user 0 com.android.inputdevices
 pm disable-user --user 0 com.android.providers.partnerbookmarks
 pm disable-user --user 0 com.android.stk
 pm disable-user --user 0 com.android.traceur
@@ -55,6 +58,7 @@ pm disable-user --user 0 com.oneplus.iconpack.oneplus
 pm disable-user --user 0 com.oneplus.iconpack.square
 pm disable-user --user 0 com.oneplus.note
 pm disable-user --user 0 com.oneplus.opbugreportlite
+pm disable-user --user 0 com.oneplus.security
 pm disable-user --user 0 com.oneplus.soundrecorder
 pm disable-user --user 0 com.qti.snapdragon.qdcm_ff
 pm disable-user --user 0 com.qualcomm.uimremoteclient
