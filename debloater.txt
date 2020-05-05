@@ -4,9 +4,12 @@ pm uninstall --user 0 com.amazon.avod.thirdpartyclient
 pm uninstall --user 0 com.amazon.kindle
 pm uninstall --user 0 com.amazon.mShop.android.shopping
 pm uninstall --user 0 com.android.bookmarkprovider
+pm uninstall --user 0 com.android.cellbroadcastreceiver
 pm uninstall --user 0 com.android.dreams.basic
+pm uninstall --user 0 com.android.externalstorage
 pm uninstall --user 0 com.android.hotwordenrollment.okgoogle
 pm uninstall --user 0 com.android.hotwordenrollment.xgoogle
+pm uninstall --user 0 com.android.inputdevices
 pm uninstall --user 0 com.android.providers.partnerbookmarks
 pm uninstall --user 0 com.android.stk
 pm uninstall --user 0 com.android.traceur
@@ -55,6 +58,7 @@ pm uninstall --user 0 com.oneplus.iconpack.oneplus
 pm uninstall --user 0 com.oneplus.iconpack.square
 pm uninstall --user 0 com.oneplus.note
 pm uninstall --user 0 com.oneplus.opbugreportlite
+pm uninstall --user 0 com.oneplus.security
 pm uninstall --user 0 com.oneplus.soundrecorder
 pm uninstall --user 0 com.qti.snapdragon.qdcm_ff
 pm uninstall --user 0 com.qualcomm.uimremoteclient
