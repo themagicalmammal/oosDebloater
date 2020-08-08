@@ -114,3 +114,5 @@ Fork this repo before you modify it
 [dude_abided](https://forum.xda-developers.com/member.php?u=10663973)<br>
 [Illuminatus_](https://forum.xda-developers.com/member.php?u=4391705)<br>
 [RainGater](https://forum.xda-developers.com/member.php?u=5379867)
+
+### Git Guardian Active
