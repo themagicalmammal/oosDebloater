@@ -1,6 +1,0 @@
-settings put global device_idle_constants 
-inactive_to=5100,light_after_inactive_to=5000,idle_after_inactive_to=5100,sensing_to=1000,locating_to=1000,location_accuracy=10000,motion_inactive_to=1000,idle_pending_to=1000
-
-## OR
-
-reboot

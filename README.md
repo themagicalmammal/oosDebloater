@@ -1,6 +1,6 @@
 <img src="https://github.com/DevilDipan/adbdebloater_opseries/blob/master/logo.jpg" width="500" /><br>
 # OOS/H2OS Debloater
-This is a debloater for oxygen os. Though it doesn't come with many bloats there are few bloats that could be removed to increase performance and battery life.
+This is a Debloater for Oxygen OS. Though it doesn't come with many bloats there are still bloats that could be removed to increase performance and battery life.
 
 ###### Though the performance improvement is not visible the same to me battery life increased by 30+%.
 
@@ -12,14 +12,14 @@ This is a debloater for oxygen os. Though it doesn't come with many bloats there
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/DevilDipan/Wiki-Bot/blob/master/LICENSE)
 
 ## Requirments
-1. Windows/MAC/Linux PC
-2. ADB [Working!]
-3. OP7/7T/Pro
+1. Windows/MAC/Linux
+2. ADB [Working!!!]
+3. OP7/7T/8/7Pro/Nord/Lite
 
 ## Instructions
 1. Connect the phone using ADB.
-2. Open command prompt or PowerShell or shell or the terminal with admin permissions
-3. Give ADB permissions to pc. Using -
+2. Open Command Prompt/PowerShell/Shell/Terminal
+3. Run ADB -
 ```shell
 ADB devices
 ```
@@ -33,22 +33,18 @@ ADB shell
 
 ## Scripts
 1. Debloaters
-* With [Uninstall Method](https://github.com/DevilDipan/adbdebloater_opseries/blob/master/debloater.txt) **(Safe for Op7 Series)**
+* With [Uninstall Method](https://github.com/DevilDipan/adbdebloater_opseries/blob/master/debloater.txt) **(Safe)**
 * With [Disable Method](https://github.com/DevilDipan/adbdebloater_opseries/blob/master/debloater_enable.txt) **(Recommended)**
 2. Optional Scripts
 * With [Uninstall Method](https://github.com/DevilDipan/adbdebloater_opseries/blob/master/optional_debloats.txt) **(Highly Risky)**
 * With [Disable Method](https://github.com/DevilDipan/adbdebloater_opseries/blob/master/optional_debloatsenable.txt) **(Recommended)**
-3. Deep Sleep Script
-* [Normal](https://github.com/DevilDipan/adbdebloater_opseries/blob/master/deepsleepscript.txt) (Will break VOLTE on Oneplus 6)
-4. Original Sleep Script
-* [Normal](https://github.com/DevilDipan/adbdebloater_opseries/blob/master/originalsleepscript.txt
-5. Overlay Script (For paranoid people)
+3. Overlay Script (For paranoid people)
 * With [Uninstall Method](https://github.com/DevilDipan/adbdebloater_opseries/blob/master/overlay.txt) **(Risky)**
 * With [Disable Method](https://github.com/DevilDipan/adbdebloater_opseries/blob/master/overlay_enable.txt) **(Recommended)**
- 
+
 ### What if I want any app back?
 #### **Answer**:- Easy just install it from Play store or Install its Apk file.
- 
+
 ### What if I want to remove the deep sleep script?
 #### **Answer**:- Reboot
 
@@ -57,7 +53,7 @@ ADB shell
 2. Nicole on OP7 Pro on android 10 stable.
 3. [haris_94](https://forum.xda-developers.com/member.php?u=9931329) on OP7 on android stable.
 4. [Croize](https://forum.xda-developers.com/member.php?u=5758653) on OP7T on android stable.
-I am using this debloater for months now and it didn't give me any issues. <br>
+I am using this Debloater for a year now and it didn't give me any issues on stable variant. <br>
 
 Also if you want to be updated please post it or write it to me.
 
