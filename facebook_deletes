@@ -1,0 +1,10 @@
+pm uninstall -k --user 0 com.facebook.appmanager
+
+pm uninstall -k --user 0 com.facebook.services
+
+pm uninstall -k --user 0 com.facebook.system
+
+pm uninstall -k --user 0 com.facebook.katana
+
+pm uninstall -k --user 0 com.facebook.orca
+
