@@ -4,7 +4,9 @@ pm uninstall -k --user 0 com.facebook.services
 
 pm uninstall -k --user 0 com.facebook.system
 
+# not installed on NORD EU rom of OxygenOS
 pm uninstall -k --user 0 com.facebook.katana
 
+# not installed on NORD EU rom of OxygenOS
 pm uninstall -k --user 0 com.facebook.orca
 
