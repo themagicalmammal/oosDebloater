@@ -104,6 +104,10 @@ A lot of things <br>
 ## For modifying and posting code
 Fork this repo before you modify it
 
+## Contributors<br>
+themagicalmammal(ME)
+[globalcargo](https://github.com/globalcargo)
+
 ## Thanks for Suggestions<br>
 [haris_94](https://forum.xda-developers.com/member.php?u=9931329)<br>
 [Kinto](https://forum.xda-developers.com/member.php?u=1755710)<br>
