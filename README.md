@@ -1,31 +1,32 @@
-<img src="https://github.com/DevilDipan/adbdebloater_opseries/blob/master/logo.jpg" width="500" /><br>
-This repo focuses on debloating for Oxygen/Hydrogen OS.
+<img src="https://github.com/DevilDipan/adbdebloater_opseries/blob/master/LOGO.jpg" width="500" /><br>
+This repository focuses on debloating your OOS/H2OS.
 
 ## Requirments
-1. PC
-2. ADB
-3. Oneplus Device
+1. Computer
+2. adb
+3. OnePlus Phone
 
 ## Instructions
-1. Connect the phone to your PC.
-2. Open Command Prompt/PowerShell/Shell/Terminal
-3. Run ADB & open shell
+1. Enable Developer Options in your Device.
+2. Enable USB Debugging.
+3. Connect your phone to the PC.
+4. Open Cmd/PowerShell/Shell/Terminal.
+5. Run these adb commands
 ```shell
-adb devices
+adb devices  #accept the usb debugging prompt on your device
 adb shell
 ```
-4. Download the scripts you want edit them according to your needs
-5. Use them
 
 ## Scripts
-1. Needs Updating
+1. Basic
+* [Visible](https://gist.github.com/themagicalmammal/7f454e33ef2c65b6d4cd7f2550740877)
 
-## Contributers<br>
-[haris_94](https://forum.xda-developers.com/member.php?u=9931329)<br>
-[Kinto](https://forum.xda-developers.com/member.php?u=1755710)<br>
-[dude_abided](https://forum.xda-developers.com/member.php?u=10663973)<br>
-[Illuminatus_](https://forum.xda-developers.com/member.php?u=4391705)<br>
-[RainGater](https://forum.xda-developers.com/member.php?u=5379867)
+## Contributers
+**[haris_94](https://forum.xda-developers.com/member.php?u=9931329) 
+[Kinto](https://forum.xda-developers.com/member.php?u=1755710) 
+[dude_abided](https://forum.xda-developers.com/member.php?u=10663973) 
+[Illuminatus_](https://forum.xda-developers.com/member.php?u=4391705) 
+[RainGater](https://forum.xda-developers.com/member.php?u=5379867)**
 
 ## License
 ### This is under MIT License.
